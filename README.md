@@ -21,7 +21,7 @@
 - Работаю на месторождении
 
 ### 🙌🏻 Свяжись со мной
-- [Telegram](step4k97)
+- Telegram: @step4k97
 
 ---
 
@@ -46,4 +46,4 @@
 - Working at field
 
 ### 🙌🏻 Contact me
-- [Telegram](step4k97)
+- Telegram: @step4k97
