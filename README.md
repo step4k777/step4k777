@@ -19,7 +19,7 @@
 - выполнена интерпретация результатов эксперимента
 
 Репозиторий  
-https://github.com/step4k777/ab_testing
+https://github.com/step4k777/travel-agency-ab-test
 
 Технологии: Python, pandas, NumPy, scipy, статистические методы
 
