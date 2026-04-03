@@ -1,50 +1,60 @@
 ### Hi! 👋
 
-### ✨ Немного обо мне ✨ 
-* 🎓 Образование:
-  - Высшее юридическое
-* Сейчас прохожу курсы SkillFactory на дата сайентиста
-*  Работаю по вахтам на месторождении
+# Кирилл Голочалов
 
-### 📚 Проекты 📚
+Аналитик данных
 
-* Кликни [сюда](https://github.com/step4k777/First) чтобы посмотреть мои проекты
+Работаю с Python и SQL, занимаюсь анализом данных, построением аналитических запросов, исследовательским анализом данных, A/B тестированием и разработкой аналитических дашбордов.
 
-### 💡 Основные компетенции 💡
-- Инструменты: 
-- Skills: 
-    * Очистка данных (python)
-    * Визуализация данных (python)
-    * Машинное обучение ML
-
-### ⚡️ В настоящее время ⚡️
-- Прохожу курс SkillFactory
-- Работаю на месторождении
-
-### 🙌🏻 Свяжись со мной
-- Telegram: @step4k97
+Использую Python для обработки данных и статистического анализа, а также инструменты визуализации для выявления закономерностей в данных.
 
 ---
 
-### Hello! 👋
+## Основные проекты
 
-### ✨ About me in 30 seconds ✨ 
-* 🎓 Education:
- - Higher legal
-* Now i am taking courses on SkillFactory in Data Science
-* Working at the field
+### E-commerce анализ транзакционных данных
+Анализ данных интернет-магазина с использованием SQL и Python.
 
-### 💡 Core competencies 💡
-- Tools: 
-  - Skills:
-    * Data clean (python)
-    * Data visualization (python)
-    
+- разработаны аналитические SQL-запросы для анализа выручки и поведения клиентов  
+- построена аналитическая витрина клиентских метрик  
+- выполнен исследовательский анализ транзакционных данных  
 
+Технологии: SQL, PostgreSQL, Python, pandas
 
-### ⚡️ Currently ⚡️
-- Taking courses on SkillFactory
-- Working at field
+---
 
-### 🙌🏻 Contact me
-- Telegram: @step4k97
+### Дашборд анализа продаж
+Интерактивный аналитический дашборд для анализа продаж.
+
+- реализованы KPI продаж и прибыли  
+- проведён анализ категорий товаров и прибыльности  
+- добавлены фильтры и карта распределения продаж  
+
+Технологии: Power BI, Power Query
+
+---
+
+### Credit Scoring
+Модель машинного обучения для оценки кредитного риска.
+
+- проведён EDA и подготовка данных  
+- реализовано feature engineering  
+- обучены и сравнены модели классификации  
+
+Технологии: Python, pandas, NumPy, scikit-learn
+
+---
+
+## Стек
+
+Python, pandas, NumPy, SQL, PostgreSQL, Power BI, Power Query, matplotlib, scikit-learn, Git, Jupyter Notebook
+
+---
+
+## GitHub
+
+Основные проекты:
+
+- https://github.com/step4k777/ecommerce_sql_analytics  
+- https://github.com/step4k777/powerbi-superstore-dashboard  
+- https://github.com/step4k777/credit_scoring
